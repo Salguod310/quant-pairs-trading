@@ -15,8 +15,8 @@ A pairs trading strategy on SGX-listed stocks using cointegration, backtesting, 
 2. yfinance
 
 ## Files
-- quant_pairs_trading_custs_portfolio.ipynb - Fill analysis notebook
+- [quant_pairs_trading_custs_portfolio.ipynb](quant_pairs_trading_custs_portfolio.ipynb) - Full analysis notebook
 
 ## Author
 Douglas Tham
-[LinkedIn][https://www.linkedin.com/in/tham-wai-hong-douglas]
+[LinkedIn](https://www.linkedin.com/in/tham-wai-hong-douglas)
